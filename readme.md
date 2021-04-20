@@ -9,6 +9,7 @@ This document shares some tips and recommendations for using VSCode for ROS deve
   - Automatically configures various paths
   - Enables clang-format
 - [CMake Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 
 ### C/C++
